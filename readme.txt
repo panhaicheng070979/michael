@@ -15,3 +15,4 @@ This is a test。
 This is -ff.
 This is --on-ff.
 This is --ff "A"。
+This is --ff "B"。
