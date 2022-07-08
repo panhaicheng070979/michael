@@ -14,3 +14,4 @@ Creating a new branch is quick and simple.
 This is a test。
 This is -ff.
 This is --on-ff.
+This is --ff "A"。
